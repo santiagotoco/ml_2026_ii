@@ -158,7 +158,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Sept</td>
+			<td>Sept 29</td>
 			<td>
 				4.1 Neural networks 
 			</td>
@@ -180,7 +180,7 @@ image:
 				<a href= "https://fagonzalezo.github.io/ml-2018-1/backpropagation.pdf">Backpropagation derivation handout</a>
 			</td>
 			<td>
-				<a href= "https://colab.research.google.com/drive/1dMDyxrmjFmFyKM--29OGwMBA7SXffU6w?usp=sharing">Practice problems 7</a><br>
+				<a href= "https://drive.google.com/file/d/1PP-V6CzFr0ZyXrqdSGfMd5KGtzMJoost/view?usp=sharing">Practice problems 7</a><br>
 				<!-- <a href= "assign2.pdf">Assignment 2</a> -->
 			</td>
 		</tr>
