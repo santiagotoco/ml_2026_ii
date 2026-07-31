@@ -1,2 +1,2 @@
-# ml_2025_2
-Machine Learning course website 2025-2
+# ml_2026_2
+Machine Learning course website 2026-2
