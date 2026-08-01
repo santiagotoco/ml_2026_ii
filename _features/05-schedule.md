@@ -14,7 +14,7 @@ image:
 			<th>Assignments</th>
 		</tr>
 		<tr>
-			<td>Jul 22</td>
+			<td>Jul 31</td>
 			<td>
 			Course presentation<br>
 			1.1 History of ML<br>
@@ -29,7 +29,7 @@ image:
 			</td>
 		</tr>
 		<tr>			
-			<td>Jul 29</td>
+			<td>Aug 07</td>
 			<td>1.2 The learning problem</td>
 			<td>
 				<strong>Synchronous Class:</strong><br> 
@@ -44,7 +44,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Aug 4<br>
+			<td>Aug 14<br>
 			</td>
 			<td>1.3 Design and analysis of ML experiments</td>
 			<td>
@@ -80,7 +80,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Aug 11</td>
+			<td>Aug 21</td>
 			<td>2.1 Bayesian decision theory</td>
 			<td>
 				<strong>Asynchronous class</strong> <br>
@@ -104,7 +104,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Aug 18</td>
+			<td>Aug 28</td>
 			<td>2.2 Parametric estimation</td>
 			<td>
 				<strong>Asynchronous class</strong> <br>
@@ -158,7 +158,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Sept 29</td>
+			<td>Sept 04</td>
 			<td>
 				4.1 Neural networks 
 			</td>
