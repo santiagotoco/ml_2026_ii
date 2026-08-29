@@ -124,7 +124,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Sept 9</td>
+			<td>Sept 4</td>
 			<td>3.2 Kernel methods</td>
 			<td>
 				<strong>Asynchronous class</strong><br>
